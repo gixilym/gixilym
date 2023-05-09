@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/gioliotta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gioliotta-linkedin" height="40" width="40" style="margin-right: 10px;" /></a> 
   
  <a href="mailto:gioliotta.io@gmail.com">
-<img align="middle" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="gioliotta-email" height="40" width="50" style="margin-right: 20px;" />
+<img align="middle" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="gioliotta-email" height="40" width="50" style="margin: 20px;" />
 </a>
 
 
