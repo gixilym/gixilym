@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Giovanni</h1>
-<h3 align="center">Soy un apasionado por la programación, me desempeño como junior frontend developer. Actualmente resido en Argentina.</h3>
+<h3 align="center">Un apasionado por la programación, me desempeño como junior frontend developer. Actualmente resido en Argentina.</h3>
 
 - 🌱 Estoy aprendiendo: **Bootstrap y SASS**
 
