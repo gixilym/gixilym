@@ -4,8 +4,6 @@
 
 🌱 I'm currently learning: Bootstrap and SASS
 
-👨‍💻 Portfolio: https://gioliotta.io.netlify.app
-
 🚀 Technologies: HTML5, CSS3, Tailwind, JavaScript (ES6), React Js and GIT
 
 📫 Contact: gioliotta.io@gmail.com
