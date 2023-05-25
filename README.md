@@ -4,7 +4,7 @@
 
 🌱 I'm currently learning: Bootstrap and SASS
 
-🚀 Technologies: HTML5, CSS3, Tailwind, Bootstrap JavaScript (ES6), React Js and GIT
+🚀 Technologies: HTML5, CSS3, Tailwind, Bootstrap, JavaScript (ES6), React Js and GIT
 
 📫 Contact: gioliotta.io@gmail.com
 
