@@ -14,7 +14,7 @@ Estoy disponible y listo para ingresar a trabajar en alguna empresa y contribuir
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongo,firebase,js,git,tailwind,css,html&perline=5)](https://skillicons.dev)
 ## Contacto 📱:
- <a target="_BLANK" href="https://www.linkedin.com/in/giovanniliotta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a target="BLANK" href="https://www.linkedin.com/in/giovanniliotta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a target="blank" href="mailto:gioliotta.io@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  <a target="BLANK" href="https://t.me/gixi_lym"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
  <a target="blank" href="https://wa.me/2615731250?text=Hola Giovanni, te contacto por..."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
