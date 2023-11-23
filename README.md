@@ -5,7 +5,7 @@ Me encuentro trabajando como desarrollador freelance en equipo con programadores
 <br /> tanto en aplicaciones web y móviles. 💻
 <br /><br />
 
-Trabajo con: <br />
+Tecnologías que utilizo: <br />
 React.js, React Native, Next.js, Node.js, Express, MongoDB, 
 <br /> Firebase, GIT, JavaScript, Tailwind, CSS y HTML. 💥
 
