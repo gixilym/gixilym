@@ -6,7 +6,7 @@ Me encuentro trabajando como desarrollador freelance en equipo con programadores
 <br /><br />
 
 Trabajo con: <br />
-React Js, React Native, Node Js, Express, MongoDB, 
+React.js, React Native, Next.js, Node.js, Express, MongoDB, 
 <br /> Firebase, GIT, JavaScript, Tailwind, CSS y HTML. 💥
 
 Estoy disponible y listo para ingresar a trabajar en alguna empresa y contribuir al crecimiento del equipo. 
