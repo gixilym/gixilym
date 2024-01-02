@@ -1,6 +1,6 @@
 # Bienvenido a mi perfil, soy Giovanni.👋
 
-<img src="https://github.com/gioliotta/portfolio-gioliotta/blob/main/src/assets/img/bannergithub.png" alt="Banner de Giovanni Liotta](https://github.com/gioliotta/portfolio-gioliotta/blob/main/src/assets/img/bannergithub.png)">
+<img src="https://github.com/gioliotta/portfolio-gioliotta/blob/main/src/assets/img/bannergithub.png" alt="Banner de Giovanni Liotta](https://github.com/gioliotta/portfolio-gioliotta/blob/main/src/assets/img/banner.webp)">
 Me encuentro trabajando como desarrollador freelance en equipo con programadores y diseñadores, 
 <br /> tanto en aplicaciones web y móviles. 💻
 <br /><br />
