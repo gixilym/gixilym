@@ -6,7 +6,7 @@ Me encuentro trabajando como desarrollador freelance en equipo con programadores
 <br /><br />
 
 Tecnologías que utilizo: <br />
-React.js, React Native, Next.js, Node.js,
+React.js, React Native, Next.js, Node.js, Express.js
 <br /> GIT, Vite, JavaScript, Tailwind, styled components, 
 <br /> CSS y HTML. 💥
 
