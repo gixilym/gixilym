@@ -1,5 +1,5 @@
 <img src="https://github.com/gioliotta/portfolio-gioliotta/blob/trunk/src/img/banner.webp" alt="Banner de Giovanni Liotta">
-- Me encuentro trabajando como desarrollador freelance en equipo con programadores y diseñadores,
+Me encuentro trabajando como desarrollador freelance en equipo con programadores y diseñadores,
 <br /> en aplicaciones web. 💻
 <br /><br />
 
