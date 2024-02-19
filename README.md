@@ -1,4 +1,4 @@
-# Bienvenido a mi perfil, soy Giovanni Liotta.👋
+# Bienvenido a mi perfil, soy Gixi.👋
 
 <img src="https://github.com/gioliotta/portfolio-gioliotta/blob/trunk/src/img/banner.webp" alt="Banner de Giovanni Liotta">
 Me encuentro trabajando como desarrollador freelance en equipo con programadores y diseñadores, 
