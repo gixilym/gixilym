@@ -8,7 +8,7 @@ React.js, React Native, Next.js, Node.js, Express.js, Playwright,
 <br /> GIT, Vite, JavaScript, Tailwind, styled-components, 
 <br /> CSS y HTML. 💥
 
-- Estoy disponible y listo para ingresar a trabajar en alguna empresa y contribuir al crecimiento del equipo. 
+Estoy disponible y listo para ingresar a trabajar en alguna empresa y contribuir al crecimiento del equipo. 
 <br /> También me mantengo abierto a trabajos freelance. :rocket:
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongo,firebase,js,git,tailwind,css,html&perline=5)](https://skillicons.dev)
