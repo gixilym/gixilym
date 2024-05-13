@@ -5,7 +5,7 @@ Me encuentro trabajando como desarrollador freelance en equipo con programadores
 
 - Skills <br />
     React.js, React Native, Next.js, Firebase, Node.js, Express.js, Playwright,
-<br />     GIT, Vite, JavaScript, Tailwind, styled-components, 
+<br />     GIT, Vite, TypeScript, mJavaScript, Tailwind, styled-components, 
 <br />     CSS y HTML. 💥
 
 Estoy disponible y listo para ingresar a trabajar en alguna empresa y contribuir al crecimiento del equipo. 
