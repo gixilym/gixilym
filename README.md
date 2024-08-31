@@ -5,7 +5,7 @@ Con una diversa trayectoria en proyectos freelance y personales. 💻
 Dispuesto y preparado para nuevos desafíos. ✅
 <br /><br />
 Tecnologías: :rocket: <br />
-React.js, React Native, Next.js, Firebase, Node.js, Express.js, Playwright, GIT, <br /> Vite, TypeScript, JavaScript, Tailwind, styled-components, 
+React.js, React Native, Next.js, Firebase, Supabase, Node.js, Express.js, Playwright, GIT, <br /> Vite, TypeScript, JavaScript, Tailwind, styled-components, 
 CSS y HTML.
 <br /><br />
 
