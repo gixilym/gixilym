@@ -1,4 +1,5 @@
-<img src="https://github.com/gioliotta/portfolio-gioliotta/blob/trunk/src/img/banner.webp" alt="Banner de Giovanni Liotta">
+<img src="https://github.com/user-attachments/assets/1be77ebb-6a97-4eb8-97e8-65ad6f6aaebd" alt="Banner de Gixi">
+
 Especializado en la creación de aplicaciones web con React.js y su ecosistema. <br />
 Con una diversa trayectoria en proyectos freelance y personales. 💻
 <br /><br />
